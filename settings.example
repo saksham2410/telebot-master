@@ -1,5 +1,6 @@
 api_id=212390
 api_hash=2e6a3557e6d31bcc86a94eddda644535
-user_phone=+917073890734
-session_name=Saksham2140.session
-message=Hey, this a telebot automated test message.
+user_phone=
+session_name=
+message1=Hello
+message2=Bye
