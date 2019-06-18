@@ -60,7 +60,7 @@ def message(clinet):
         for line in fileobject:
             try:
                 print('Sending message to '+line)
-                time.sleep(random.randint(0,1))
+                time.sleep(random.randint(0,5))
                 client.send_message(line, data)
             except Exception as e:
                 print(e)    
